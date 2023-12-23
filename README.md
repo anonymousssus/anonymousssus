@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anonymousssus 
 - 👀 I’m interested in Raspberry Pi, and coding for fun.
 - 🌱 I’m currently learning Python + Raspberry Pi
-- 💞️ I’m looking to collaborate on nothing... that can change!.
+- 💞️ I’m looking to collaborate on nothing... <button>that can change!</button>
 - 📫 How to reach me: Linux Mint Forum.
 - ➕ I want to learn C++
